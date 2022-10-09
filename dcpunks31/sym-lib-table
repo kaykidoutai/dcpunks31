@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "dcpunks31-rescue")(type "Legacy")(uri "${KIPRJMOD}/dcpunks31-rescue.lib")(options "")(descr ""))
+)
