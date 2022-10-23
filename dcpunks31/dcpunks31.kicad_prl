@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 44,
+    "active_layer": 31,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_nets": [],
@@ -62,8 +62,8 @@
       35,
       36
     ],
-    "visible_layers": "fffffcf_ffffffff",
-    "zone_display_mode": 0
+    "visible_layers": "ffdffdf_ffffffff",
+    "zone_display_mode": 1
   },
   "meta": {
     "filename": "dcpunks31.kicad_prl",
@@ -77,10 +77,10 @@
         "window": {
           "display": 0,
           "maximized": true,
-          "pos_x": 250,
-          "pos_y": 124,
-          "size_x": 780,
-          "size_y": 315
+          "pos_x": 0,
+          "pos_y": 27,
+          "size_x": 640,
+          "size_y": 773
         }
       }
     ]
